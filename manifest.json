@@ -16,7 +16,7 @@
   ],
   "start_url": "https://www.radiorotation.ch/",
   "background_color": "#000",
-  "display": "standalone",
+  "display": "minimal-ui",
   "orientation": "any",
   
   "theme_color": "#000"
