@@ -17,7 +17,7 @@
   "start_url": "https://www.radiorotation.ch/",
   "background_color": "#000",
   "display": "fullscreen",
-  "orientation": "any"
+  "orientation": "any";
   "scope": "https://www.radiorotation.ch/",
   "theme_color": "#000"
 }
