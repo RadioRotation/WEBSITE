@@ -6,13 +6,9 @@
     {
       "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "600x600"
     },
-    {
-      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
+
   ],
   "start_url": "/?source=pwa",
   "background_color": "#000",
