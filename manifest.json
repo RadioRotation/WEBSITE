@@ -4,11 +4,15 @@
   "description": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Songs aus den letzten 70 Jahren Spielt?",
   "icons": [
     {
+      "src": "https://static.wixstatic.com/media/e3ffed_3c0d12e13efe45b6b97992dca8d3ab95~mv2_d_10000_10000_s_4_2.png/v1/fill/w_192,h_192,al_c,q_95/Radio%20Rotation%20DARK%2010kmx10km.webp",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
       "src": "https://static.wixstatic.com/media/e3ffed_3c0d12e13efe45b6b97992dca8d3ab95~mv2_d_10000_10000_s_4_2.png/v1/fill/w_512,h_512,al_c,q_95/Radio%20Rotation%20DARK%2010kmx10km.webp",
       "type": "image/png",
       "sizes": "512x512"
-    },
-
+    }
   ],
   "start_url": "/?source=pwa",
   "background_color": "#000",
