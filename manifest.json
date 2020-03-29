@@ -1,0 +1,22 @@
+{
+  "short_name": "RADIOROTATION.CH",
+  "name": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Songs aus den letzten 70 Jahren Spielt? ",
+  "description": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Songs aus den letzten 70 Jahren Spielt?",
+  "icons": [
+    {
+      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://www.radiorotation.ch/",
+  "background_color": "#0d0d0d",
+  "display": "minimal-ui",
+  "scope": "/",
+  "theme_color": "#0d0d0d"
+}
