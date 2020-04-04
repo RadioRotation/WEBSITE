@@ -12,6 +12,11 @@
       "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_512,h_512,al_c,q_95/Radio.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_1024,h_1024,al_c,q_95/Radio.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
     }
   ],
   "start_url": "https://www.radiorotation.ch/",
@@ -24,10 +29,26 @@
   {
     "platform": "RADIOROTATION",
     "url": "RADIOROTATION.CH",
-    "id": "com.example.app1"
+    "id": "ch.radiorotation.app"
   }
-]
-  
+],
+  "screenshots": [
+    {
+      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_192,h_192,al_c,q_95/Radio.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_512,h_512,al_c,q_95/Radio.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_1024,h_1024,al_c,q_95/Radio.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ]
 
   
 }
