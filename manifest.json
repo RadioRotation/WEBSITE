@@ -18,7 +18,7 @@
   "background_color": "#000",
   "display": "fullscreen",
   "theme_color": "#000",
-  "lang": "de-CH"
+  "lang": "de-CH",
   
   "related_applications": [
   {
@@ -26,7 +26,7 @@
     "url": "RADIOROTATION.CH",
     "id": "com.example.app1"
   }
-]
+],
   
 
   
