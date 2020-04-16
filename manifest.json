@@ -1,5 +1,10 @@
 {
+  
+  "permissions": {
+    "desktop-notification":{}
+}
   "short_name": "RADIOROTATION.CH",
+  
   "name": "RADIOROTATION.CH",
   "description": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Songs aus den letzten 70 Jahren Spielt?",
   "icons": [
