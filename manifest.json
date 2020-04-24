@@ -1,55 +1,31 @@
 {
-  
-  "permissions": {
-    "desktop-notification":{}
-},
-  "short_name": "RADIOROTATION.CH",
-  
-  "name": "RADIOROTATION.CH",
-  "description": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Songs aus den letzten 70 Jahren Spielt?",
+  "name": "Radiorotation.ch",
+  "short_name": "Radiorotation.ch",
+  "description": "Radiorotation.ch",
+  "lang": "de-CH",
+  "start_url": "https://www.radiorotation.ch/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_192,h_192,al_c,q_95/Radio.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "https://static.wixstatic.com/media/e3ffed_3c0d12e13efe45b6b97992dca8d3ab95~mv2_d_10000_10000_s_4_2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.33_1.00_0.00/Radio%20Rotation%20DARK%2010kmx10km.jpg",
+      "sizes": "600x600",
+      "type": "image/jpg"
     },
     {
-      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_512,h_512,al_c,q_95/Radio.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "https://static.wixstatic.com/media/e3ffed_3c0d12e13efe45b6b97992dca8d3ab95~mv2_d_10000_10000_s_4_2.png/v1/fill/w_300,h_300,al_c,q_85,usm_0.33_1.00_0.00/Radio%20Rotation%20DARK%2010kmx10km.jpg",
+      "sizes": "300x300",
+      "type": "image/jpg"
     }
   ],
-  "start_url": "https://www.radiorotation.ch/",
-  "background_color": "#000",
-  "display": "fullscreen",
-  "theme_color": "#000",
-  "lang": "de-CH",
-  
+  "background_color": "#000000",
   "related_applications": [
-  {
-    "platform": "RADIOROTATION",
-    "url": "RADIOROTATION.CH",
-    "id": "ch.radiorotation.app"
-  }
-],
-  "screenshots": [
     {
-      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_192,h_192,al_c,q_95/Radio.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_512,h_512,al_c,q_95/Radio.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "https://static.wixstatic.com/media/1bf8c6_95e11fa0279a4ee5b8b1257ec91c82b2~mv2.png/v1/fill/w_1024,h_1024,al_c,q_95/Radio.png",
-      "type": "image/png",
-      "sizes": "1024x1024"
+      "platform": "radiorotation.ch",
+      "id": "ch.radiorotation.app",
+      "url": "https://www.radiorotation.ch/"
     }
-  ]
-
-  
+  ],
+  "prefer_related_applications": true
 }
-
