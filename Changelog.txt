@@ -1,0 +1,7 @@
+
+
+// 30.04.2020 //
++ Subdomains added
+    shop.radiorotation.ch
+    stream.radiorotation.ch
++ Mobile version update
