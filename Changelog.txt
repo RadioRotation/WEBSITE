@@ -1,7 +1,8 @@
+// 02.05.2020 // V2715 //
+[+] internal stream server added: radiorotation.stream.radiorotation.ch
+[+] new menu button added: ÜBER UNS > SHOP
+[-] all events until August 31, 2020 removed: Covid19
 
+// 30.04.2020 // V2713 //
+[+] Subdomain added: shop.radiorotation.ch
 
-// 30.04.2020 //
-+ Subdomains added
-    shop.radiorotation.ch
-    stream.radiorotation.ch
-+ Mobile version update
