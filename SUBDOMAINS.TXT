@@ -1,0 +1,24 @@
+
+
+radiorotation.ch ==> radiorotation.ch
+
+
+// Unterseiten //
+shop.radiorotation.ch ==> radiorotation.ch/shop
+[?] win.radiorotation.ch ==> radiorotation.ch/gewinnspiel
+admin.radiorotation.ch ==> radiorotation.ch/admin-home
+[?] info.radiorotation.ch ==> radiorotation.ch/??
+
+// Streams //
+radiorotation.stream.radiorotation.ch ==> 81.95.4.73
+[?] rotationhits.stream.radiorotation.ch ==> ???.???.???.???
+
+// Extern //
+lautfm.radiorotation.ch ==> laut.fm/radio-rotation
+96hstream.radiorotation.ch ==> https://sites.google.com/view/96h-stream
+greenlimits.radiorotation.ch ==> sites.google.com/view/greenlimits
+
+// Intern //
+[!] server.radiorotation.ch ==> 192.168.0.19
+
+[?] drinks.radiorotation.ch ==> bar app
