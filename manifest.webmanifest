@@ -4,7 +4,7 @@
   "description": "Radiorotation.ch",
   "lang": "de-CH",
   "start_url": "https://www.radiorotation.ch/?source=pwa",
-  "scope": "https://raw.githubusercontent.com/RadioRotation/WEBSITE/master/service-worker.js",
+  "scope": "https://www.radiorotation.ch/",
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#000000",
