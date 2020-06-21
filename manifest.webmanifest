@@ -28,7 +28,7 @@
       "url": "https://www.radiorotation.ch/"
     }
   ],
-  "prefer_related_applications": true,
+  "prefer_related_applications": false,
   "shortcuts": [
     {
       "name": "RADIO ROTATION",
