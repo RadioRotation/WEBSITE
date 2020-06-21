@@ -3,8 +3,8 @@
   "short_name": "Radiorotation.ch",
   "description": "Radiorotation.ch",
   "lang": "de-CH",
-  "start_url": "https://www.radiorotation.ch/",
-  
+  "start_url": "https://www.radiorotation.ch/?source=pwa",
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#000000",
