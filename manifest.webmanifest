@@ -2,7 +2,14 @@
   "name": "Radiorotation.ch",
   "short_name": "Radiorotation.ch",
   "description": "Radiorotation.ch",
+  "version": "15.1.18";
   "lang": "de-CH",
+  "permissions": {
+    "desktop-notification":{}
+},
+  "messages": [
+  { "notification": "/index.html" }
+],
   "start_url": "https://www.radiorotation.ch/?source=pwa",
   "scope": "https://www.radiorotation.ch/",
   "display": "minimal-ui",
@@ -46,4 +53,3 @@
     }
   ]
   
-}
