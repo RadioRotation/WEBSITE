@@ -2,7 +2,7 @@
   "name": "Radiorotation.ch",
   "short_name": "Radiorotation.ch",
   "description": "Radiorotation.ch",
-  "version": "15.1.18",
+  "version": "15.1.20",
   "lang": "de-CH",
   "permissions": {
     "desktop-notification":{}
