@@ -4,11 +4,11 @@
   "description": "Radiorotation.ch",
   "version": "15.1.20",
   "lang": "de-CH",
-  "permissions": {
-    "desktop-notification":{}
-},
+  "permissions": [
+    "desktop-notification":{},
+],
   "messages": [
-  { "notification": "/index.html" }
+  { "notification": "/index.html", }
 ],
   "start_url": "https://www.radiorotation.ch/?source=pwa",
   "scope": "https://www.radiorotation.ch/",
@@ -36,4 +36,4 @@
     }
   ],
   "prefer_related_applications": false,
-}
+},
