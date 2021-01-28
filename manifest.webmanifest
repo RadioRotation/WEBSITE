@@ -26,26 +26,4 @@
   
   "prefer_related_applications": false,
   
-  {
-  "shortcuts": [
-    {
-      "name": "Play Later",
-      "description": "View the list of podcasts you saved for later",
-      "url": "/play-later",
-      "icons": [
-        {
-          "src": "/icons/play-later.svg",
-          "type": "image/svg+xml",
-          "purpose": "any"
-        }
-      ]
-    },
-    {
-      "name": "Subscriptions",
-      "description": "View the list of podcasts you listen to",
-      "url": "/subscriptions?sort=desc"
-    }
-  ]
-}
-
 }
