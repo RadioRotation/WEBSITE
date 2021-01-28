@@ -1,14 +1,14 @@
 {
   "name": "Radiorotation.ch",
   "short_name": "Radiorotation.ch",
-  "description": "Radiorotation.ch",
-  "version": "15.1.20",
+  "description": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Musik aus den letzten 70 Jahren Spielt? Entdecken sie RADIOROTATION.CH noch heute.",
+  "version": "21.5.20",
   "lang": "de-CH",
   "start_url": "https://www.radiorotation.ch/?source=pwa",
   "scope": "https://www.radiorotation.ch/",
-  "display": "minimal-ui",
+  "display": "fullscreen",
   "orientation": "any",
-  "theme_color": "#000000",
+  "theme_color": "#00ffff",
   "icons": [
     {
       "src": "https://static.wixstatic.com/media/e3ffed_3c0d12e13efe45b6b97992dca8d3ab95~mv2_d_10000_10000_s_4_2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.33_1.00_0.00/Radio%20Rotation%20DARK%2010kmx10km.png",
@@ -21,13 +21,31 @@
       "type": "image/png"
     }
   ],
+  
   "background_color": "#000000",
-  "related_applications": [
-    {
-      "platform": "radiorotation.ch",
-      "id": "ch.radiorotation.app",
-      "url": "https://www.radiorotation.ch/"
-    }
-  ],
+  
   "prefer_related_applications": false,
+  
+  {
+  "shortcuts": [
+    {
+      "name": "Play Later",
+      "description": "View the list of podcasts you saved for later",
+      "url": "/play-later",
+      "icons": [
+        {
+          "src": "/icons/play-later.svg",
+          "type": "image/svg+xml",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Subscriptions",
+      "description": "View the list of podcasts you listen to",
+      "url": "/subscriptions?sort=desc"
+    }
+  ]
+}
+
 }
