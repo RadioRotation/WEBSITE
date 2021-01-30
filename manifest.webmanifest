@@ -1,7 +1,7 @@
 {
   "name": "RADIOROTATION.CH",
   "short_name": "RADIO ROTATION",
-  "version": "21.5.20",
+  "version": "24.5.20",
   "description": "Auf der suche nach einem Abwechslungsreicher Radiosender, der Musik aus den letzten 70 Jahren Spielt? Entdecken sie RADIOROTATION.CH noch heute.",
   "lang": "DE-CH",
   "start_url": "https://www.radiorotation.ch/?source=pwa",
@@ -21,6 +21,5 @@
       "type": "image/png"
     }
   ],
-  "background_color": "#000000",
-  "prefer_related_applications": false
+  "background_color": "#000000"
 }
